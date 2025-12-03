@@ -1,0 +1,2933 @@
+[
+  {
+    "author": {
+      "did": "did:plc:ceure4mfaxd3gh4fbkcvp2je",
+      "handle": "phantom2013.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": {
+          "allow_incoming": "all",
+          "py_type": "app.bsky.actor.defs#profileAssociatedChat"
+        },
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ceure4mfaxd3gh4fbkcvp2je/bafkreifvtojhrqjmf4ae3gey6e2xswaijos3oh3wippybgtqifqzsw7wmi@jpeg",
+      "created_at": "2024-11-12T13:51:24.511Z",
+      "debug": null,
+      "display_name": "Michelle Bekhor",
+      "labels": [],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreihvvdipczepceyxxxmuxtwhpl5vvi7qijikeiitr5wgdqkjqqpkny",
+    "indexed_at": "2025-12-01T00:59:29.533Z",
+    "record": {
+      "created_at": "2025-12-01T00:59:27.105Z",
+      "text": "x.com/ImMeme0/stat...\n\ud83d\udea8 BREAKING: Mamdani, the commie who promised freebies for all, just released another ad asking for donations.\n\nLess than a month ago it was \u201cyou deserve free stuff,\u201d now it\u2019s \u201cgive us your money.\u2019\u201d\n\nYou can\u2019t make this up!\n\n[video]",
+      "embed": null,
+      "entities": null,
+      "facets": [
+        {
+          "features": [
+            {
+              "uri": "https://x.com/ImMeme0/status/1995215488990019876",
+              "py_type": "app.bsky.richtext.facet#link"
+            }
+          ],
+          "index": {
+            "byte_end": 21,
+            "byte_start": 0,
+            "py_type": "app.bsky.richtext.facet#byteSlice"
+          },
+          "py_type": "app.bsky.richtext.facet"
+        }
+      ],
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": null,
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:ceure4mfaxd3gh4fbkcvp2je/app.bsky.feed.post/3m6v7yumozc2u",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": null,
+    "labels": [],
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 1,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:do46s3u6h22vzu6nogkm4rc7",
+      "handle": "googeliart.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": {
+          "allow_incoming": "following",
+          "py_type": "app.bsky.actor.defs#profileAssociatedChat"
+        },
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:do46s3u6h22vzu6nogkm4rc7/bafkreibzvfqwr7r27cnkrcykynxqxqva3tmafmt5eqygqqb2m6f5cmzy5m@jpeg",
+      "created_at": "2024-11-13T04:10:24.889Z",
+      "debug": null,
+      "display_name": "Anne Grete (GoogeliArt) \ud83e\udd8b\ud83d\udc99PD",
+      "labels": [],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreibuwvjkjuruxgtqhyw6attwpktu5ceop23tuitkf5xowrzidy4kpu",
+    "indexed_at": "2025-12-01T01:57:22.434Z",
+    "record": {
+      "created_at": "2025-12-01T01:57:21.426Z",
+      "text": "Candidates win when they run on affordable family care\n\nRecent wins by Mamdani, Spanberger and Sherrill prove the power of fixing the \"care economy\"\n\nwww.salon.com/2019/01/08/a...",
+      "embed": {
+        "external": {
+          "description": "Religious fundamentalism is partly the result of a functional impairment in the prefrontal cortex, new study finds",
+          "title": "A link between brain damage and religious fundamentalism has now been established by scientists - Salon.com",
+          "uri": "https://www.salon.com/2019/01/08/a-link-between-brain-damage-and-religious-fundamentalism-has-now-been-established-by-scientists_partner/",
+          "thumb": {
+            "mime_type": "image/jpeg",
+            "size": 226427,
+            "ref": {
+              "link": "bafkreicwwszclqc4gbl7rvg75bfrap7dgbzro4fzubtyjpevvaoe35uynu"
+            },
+            "py_type": "blob"
+          },
+          "py_type": "app.bsky.embed.external#external"
+        },
+        "py_type": "app.bsky.embed.external"
+      },
+      "entities": null,
+      "facets": [
+        {
+          "features": [
+            {
+              "uri": "https://www.salon.com/2019/01/08/a-link-between-brain-damage-and-religious-fundamentalism-has-now-been-established-by-scientists_partner/",
+              "py_type": "app.bsky.richtext.facet#link"
+            }
+          ],
+          "index": {
+            "byte_end": 179,
+            "byte_start": 150,
+            "py_type": "app.bsky.richtext.facet#byteSlice"
+          },
+          "py_type": "app.bsky.richtext.facet"
+        }
+      ],
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": null,
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:do46s3u6h22vzu6nogkm4rc7/app.bsky.feed.post/3m6vdafykmk2q",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": {
+      "external": {
+        "description": "Religious fundamentalism is partly the result of a functional impairment in the prefrontal cortex, new study finds",
+        "title": "A link between brain damage and religious fundamentalism has now been established by scientists - Salon.com",
+        "uri": "https://www.salon.com/2019/01/08/a-link-between-brain-damage-and-religious-fundamentalism-has-now-been-established-by-scientists_partner/",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:do46s3u6h22vzu6nogkm4rc7/bafkreicwwszclqc4gbl7rvg75bfrap7dgbzro4fzubtyjpevvaoe35uynu@jpeg",
+        "py_type": "app.bsky.embed.external#viewExternal"
+      },
+      "py_type": "app.bsky.embed.external#view"
+    },
+    "labels": [],
+    "like_count": 12,
+    "quote_count": 1,
+    "reply_count": 1,
+    "repost_count": 7,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:f42ntlx4xz4bo3eabvlcpdrv",
+      "handle": "aumakuahonu.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": {
+          "allow_incoming": "none",
+          "py_type": "app.bsky.actor.defs#profileAssociatedChat"
+        },
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:f42ntlx4xz4bo3eabvlcpdrv/bafkreibcfwfj433lnarfijoe6jp4gqjh3p3pcrefogrpvi66kkxkmmanay@jpeg",
+      "created_at": "2023-10-23T03:00:36.544Z",
+      "debug": null,
+      "display_name": "\ud83c\udfca\ud83c\udffc\u200d\u2640\ufe0f\ud83d\udeb4\ud83c\udffd\u200d\u2640\ufe0f\ud83c\udf3b",
+      "labels": [
+        {
+          "cts": "1970-01-01T00:00:00.000Z",
+          "src": "did:plc:f42ntlx4xz4bo3eabvlcpdrv",
+          "uri": "at://did:plc:f42ntlx4xz4bo3eabvlcpdrv/app.bsky.actor.profile/self",
+          "val": "!no-unauthenticated",
+          "cid": "bafyreihbifgz64xbpftovubx2632ctj5jfjvokkidgxvrxinsowtucnmwy",
+          "exp": null,
+          "neg": null,
+          "sig": null,
+          "ver": null,
+          "py_type": "com.atproto.label.defs#label"
+        }
+      ],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreibdjejgkbrdqx3f2g4fg5ahv2gwqjdaehbpll4pcolrqdm7gjfzoq",
+    "indexed_at": "2025-12-01T02:58:33.034Z",
+    "record": {
+      "created_at": "2025-12-01T02:58:32.793Z",
+      "text": "again wondering where mamdani or his team w/ lina khan is on this?",
+      "embed": null,
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreibmonthiajo4yvwrpdy5js7pslxcqh6yttmo4zdcwsl7fwgrnw7yy",
+          "uri": "at://did:plc:mka45vdfzpj6qys7tyu24yri/app.bsky.feed.post/3m6vfehcqtk22",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "root": {
+          "cid": "bafyreibmonthiajo4yvwrpdy5js7pslxcqh6yttmo4zdcwsl7fwgrnw7yy",
+          "uri": "at://did:plc:mka45vdfzpj6qys7tyu24yri/app.bsky.feed.post/3m6vfehcqtk22",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "py_type": "app.bsky.feed.post#replyRef"
+      },
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:f42ntlx4xz4bo3eabvlcpdrv/app.bsky.feed.post/3m6vgntbrxc22",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": null,
+    "labels": [],
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 2,
+    "repost_count": 0,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:bfctdt64ifpjcajketysws2t",
+      "handle": "cricketmice.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": {
+          "allow_incoming": "all",
+          "py_type": "app.bsky.actor.defs#profileAssociatedChat"
+        },
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bfctdt64ifpjcajketysws2t/bafkreic7oj5jxht55j5qhsfpdctlpgghxmfkdcfhvpjhrl36v35olh5gp4@jpeg",
+      "created_at": "2023-08-02T21:37:13.426Z",
+      "debug": null,
+      "display_name": "Avi",
+      "labels": [
+        {
+          "cts": "1970-01-01T00:00:00.000Z",
+          "src": "did:plc:bfctdt64ifpjcajketysws2t",
+          "uri": "at://did:plc:bfctdt64ifpjcajketysws2t/app.bsky.actor.profile/self",
+          "val": "!no-unauthenticated",
+          "cid": "bafyreiglyzpzf64j6cucx4g4rsf2wl3ytxrqopkr7mli3ayqdfi7fw5w54",
+          "exp": null,
+          "neg": null,
+          "sig": null,
+          "ver": null,
+          "py_type": "com.atproto.label.defs#label"
+        }
+      ],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreiffktcw6vpbtt33mukspiauvujctgxtmquq36mdgv7ln2f5l3yr4y",
+    "indexed_at": "2025-12-01T03:57:28.833Z",
+    "record": {
+      "created_at": "2025-12-01T03:57:27.777Z",
+      "text": "Fascinating interview with the satmar rebbe who endorsed mamdani, lots of food for thought. mishpacha.com/the-kingmake...",
+      "embed": {
+        "external": {
+          "description": "\u201cHow could you endorse Mamdani?\u201d Tough questions for Satmar askan Rabbi Moishe Indig",
+          "title": "The Kingmaker from Williamsburg - Mishpacha Magazine",
+          "uri": "https://mishpacha.com/the-kingmaker-from-williamsburg/",
+          "thumb": {
+            "mime_type": "image/jpeg",
+            "size": 54579,
+            "ref": {
+              "link": "bafkreigbaecsc6b2x64dz6ymctqikckevklsh6yxirhp2cztkgkn5efdbq"
+            },
+            "py_type": "blob"
+          },
+          "py_type": "app.bsky.embed.external#external"
+        },
+        "py_type": "app.bsky.embed.external"
+      },
+      "entities": null,
+      "facets": [
+        {
+          "features": [
+            {
+              "uri": "https://mishpacha.com/the-kingmaker-from-williamsburg/",
+              "py_type": "app.bsky.richtext.facet#link"
+            }
+          ],
+          "index": {
+            "byte_end": 121,
+            "byte_start": 92,
+            "py_type": "app.bsky.richtext.facet#byteSlice"
+          },
+          "py_type": "app.bsky.richtext.facet"
+        }
+      ],
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": null,
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:bfctdt64ifpjcajketysws2t/app.bsky.feed.post/3m6vjx6iwrc2x",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": {
+      "external": {
+        "description": "\u201cHow could you endorse Mamdani?\u201d Tough questions for Satmar askan Rabbi Moishe Indig",
+        "title": "The Kingmaker from Williamsburg - Mishpacha Magazine",
+        "uri": "https://mishpacha.com/the-kingmaker-from-williamsburg/",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bfctdt64ifpjcajketysws2t/bafkreigbaecsc6b2x64dz6ymctqikckevklsh6yxirhp2cztkgkn5efdbq@jpeg",
+        "py_type": "app.bsky.embed.external#viewExternal"
+      },
+      "py_type": "app.bsky.embed.external#view"
+    },
+    "labels": [],
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:i53e6y3liw2oaw4s6e6odw5m",
+      "handle": "bluesky.awakari.com",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": null,
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:i53e6y3liw2oaw4s6e6odw5m/bafkreicvyjeywe5ph65avri3hzojqocoowoqwh3htd7dlazqgwzsnuyjfy@jpeg",
+      "created_at": "2025-04-30T15:30:35.574Z",
+      "debug": null,
+      "display_name": "Awakari",
+      "labels": [],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreihglrekfokegb6m7aq4iwn26ywr4nfnqvtewwu3zmuk644p5gkrne",
+    "indexed_at": "2025-12-01T04:50:14.032Z",
+    "record": {
+      "created_at": "2025-12-01T04:50:12Z",
+      "text": " \u270a The Zohran Mamdani method can work beyond New York. Take the fight to the right | Aditya Chakrabortty https://www. theguardian.com/commentisfree/ 2025/nov/05/zohran-mamdani-new-york-city-mayor-us-trump # politics # activism # nyc # newyork # opinion # mamdani \n\nInterest | Match | Feed",
+      "embed": {
+        "external": {
+          "description": "Origin",
+          "title": "",
+          "uri": "https://mastodon.social/@UP8/115642503358495784",
+          "thumb": null,
+          "py_type": "app.bsky.embed.external#external"
+        },
+        "py_type": "app.bsky.embed.external"
+      },
+      "entities": null,
+      "facets": [
+        {
+          "features": [
+            {
+              "uri": "https://awakari.com/pub-msg.html?id=36EGxryo9tvcyrEm3UVKxxTInXC&interestId=NewYork",
+              "py_type": "app.bsky.richtext.facet#link"
+            }
+          ],
+          "index": {
+            "byte_end": 283,
+            "byte_start": 278,
+            "py_type": "app.bsky.richtext.facet#byteSlice"
+          },
+          "py_type": "app.bsky.richtext.facet"
+        },
+        {
+          "features": [
+            {
+              "uri": "https://awakari.com/sub-details.html?id=NewYork",
+              "py_type": "app.bsky.richtext.facet#link"
+            }
+          ],
+          "index": {
+            "byte_end": 275,
+            "byte_start": 267,
+            "py_type": "app.bsky.richtext.facet#byteSlice"
+          },
+          "py_type": "app.bsky.richtext.facet"
+        },
+        {
+          "features": [
+            {
+              "uri": "https://bsky.app/profile/did:plc:i53e6y3liw2oaw4s6e6odw5m/feed/NewYork",
+              "py_type": "app.bsky.richtext.facet#link"
+            }
+          ],
+          "index": {
+            "byte_end": 290,
+            "byte_start": 286,
+            "py_type": "app.bsky.richtext.facet#byteSlice"
+          },
+          "py_type": "app.bsky.richtext.facet"
+        }
+      ],
+      "labels": {
+        "values": [
+          {
+            "val": "NewYork",
+            "py_type": "com.atproto.label.defs#selfLabel"
+          }
+        ],
+        "py_type": "com.atproto.label.defs#selfLabels"
+      },
+      "langs": [
+        "en"
+      ],
+      "reply": null,
+      "tags": [
+        "politics",
+        "activism",
+        "nyc",
+        "newyork",
+        "opinion",
+        "mamdani"
+      ],
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:i53e6y3liw2oaw4s6e6odw5m/app.bsky.feed.post/3m6vmviwqse2u",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": {
+      "external": {
+        "description": "Origin",
+        "title": "",
+        "uri": "https://mastodon.social/@UP8/115642503358495784",
+        "thumb": null,
+        "py_type": "app.bsky.embed.external#viewExternal"
+      },
+      "py_type": "app.bsky.embed.external#view"
+    },
+    "labels": [
+      {
+        "cts": "2025-12-01T04:50:12.000Z",
+        "src": "did:plc:i53e6y3liw2oaw4s6e6odw5m",
+        "uri": "at://did:plc:i53e6y3liw2oaw4s6e6odw5m/app.bsky.feed.post/3m6vmviwqse2u",
+        "val": "NewYork",
+        "cid": "bafyreihglrekfokegb6m7aq4iwn26ywr4nfnqvtewwu3zmuk644p5gkrne",
+        "exp": null,
+        "neg": null,
+        "sig": null,
+        "ver": null,
+        "py_type": "com.atproto.label.defs#label"
+      }
+    ],
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:n2mk6auyfotqdcjo7gu23s4m",
+      "handle": "kyleruggles.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": null,
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n2mk6auyfotqdcjo7gu23s4m/bafkreic4fjxd34uxoetkye3ycqmut7rnmgf4na26acagtojrp7uewicyhy@jpeg",
+      "created_at": "2024-11-09T19:46:10.389Z",
+      "debug": null,
+      "display_name": "Kyle Ruggles \ud83c\udde8\ud83c\udde6",
+      "labels": [],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreichl32hjud7j6lyipr74jnpgwuo3tlgpgmagzv2d5tua4ug67alpi",
+    "indexed_at": "2025-12-01T05:59:56.733Z",
+    "record": {
+      "created_at": "2025-12-01T05:59:53.873Z",
+      "text": "Don't you see how this cycle just continues? \n\nLook at how they absolutely resisted endorsing Mamdani, and then they just came out and then this!\n\nThis is the change they need, but they don't want to go there, except for a handful of them.\n\nIt's so sad to see this \"Democracy\" be so constricted.",
+      "embed": {
+        "external": {
+          "description": "The House of Representatives voted on a resolution condemning socialism ahead of President Trump's meeting with Zohran Mamdani.",
+          "title": "Full list of Democrats voting to condemn socialism as Zohran Mamdani comes to town",
+          "uri": "https://www.newsweek.com/full-list-of-democrats-voting-to-condemn-socialism-as-mamdani-comes-to-town-11088383",
+          "thumb": {
+            "mime_type": "image/jpeg",
+            "size": 754834,
+            "ref": {
+              "link": "bafkreigskmz3cu3gt3mfx4rvtso25gw7um6wk5vv5q5tlaiuksb76uauwq"
+            },
+            "py_type": "blob"
+          },
+          "py_type": "app.bsky.embed.external#external"
+        },
+        "py_type": "app.bsky.embed.external"
+      },
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreihnnj3cqwbgroq4aq3a6qh6vier5ul4w4g7jurbxewvx7yn57none",
+          "uri": "at://did:plc:n2mk6auyfotqdcjo7gu23s4m/app.bsky.feed.post/3m6vqobp7ds2g",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "root": {
+          "cid": "bafyreic2is3t6fnic437q43m72drpl72ptzzlchuofwknu7j5y2xupm2mq",
+          "uri": "at://did:plc:bysgmujppjcz35a5zijmtijo/app.bsky.feed.post/3m6uk5u665c2w",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "py_type": "app.bsky.feed.post#replyRef"
+      },
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:n2mk6auyfotqdcjo7gu23s4m/app.bsky.feed.post/3m6vqs4bxo22g",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": {
+      "external": {
+        "description": "The House of Representatives voted on a resolution condemning socialism ahead of President Trump's meeting with Zohran Mamdani.",
+        "title": "Full list of Democrats voting to condemn socialism as Zohran Mamdani comes to town",
+        "uri": "https://www.newsweek.com/full-list-of-democrats-voting-to-condemn-socialism-as-mamdani-comes-to-town-11088383",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:n2mk6auyfotqdcjo7gu23s4m/bafkreigskmz3cu3gt3mfx4rvtso25gw7um6wk5vv5q5tlaiuksb76uauwq@jpeg",
+        "py_type": "app.bsky.embed.external#viewExternal"
+      },
+      "py_type": "app.bsky.embed.external#view"
+    },
+    "labels": [],
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 2,
+    "repost_count": 0,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:tuhlyhkol7yxkh5q3mykjqe4",
+      "handle": "drawstickpeople.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": {
+          "allow_incoming": "all",
+          "py_type": "app.bsky.actor.defs#profileAssociatedChat"
+        },
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tuhlyhkol7yxkh5q3mykjqe4/bafkreif3o3qeyskklsrq57bhffmw3yhbiaclmcciaa4wmr5pjdkgi4owbi@jpeg",
+      "created_at": "2023-05-23T22:56:04.923Z",
+      "debug": null,
+      "display_name": "DSP\ud83d\udc99#\ud83d\udfe6\ud83c\udf97\ufe0f\u2721\ufe0f",
+      "labels": [
+        {
+          "cts": "1970-01-01T00:00:00.000Z",
+          "src": "did:plc:tuhlyhkol7yxkh5q3mykjqe4",
+          "uri": "at://did:plc:tuhlyhkol7yxkh5q3mykjqe4/app.bsky.actor.profile/self",
+          "val": "!no-unauthenticated",
+          "cid": "bafyreieipslyczn6jh7ivci2xuplsezqfvds53xwriwj2y6vr7qre3fxti",
+          "exp": null,
+          "neg": null,
+          "sig": null,
+          "ver": null,
+          "py_type": "com.atproto.label.defs#label"
+        }
+      ],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreicxx7fk6orm2ez2bhpyhqogghvqktl3ctp5z3jy2czswaxbyq6r3y",
+    "indexed_at": "2025-12-01T06:56:49.229Z",
+    "record": {
+      "created_at": "2025-12-01T06:56:46.620Z",
+      "text": "Mamdani staffer\n\nWATCH: Mamdani's new Social Services transition team member Dania Darwish joined the mob that shut down the Macy's Thanksgiving Day Parade in 2023.\n\nFrom @canarymission on IG",
+      "embed": {
+        "images": [
+          {
+            "alt": "",
+            "image": {
+              "mime_type": "image/jpeg",
+              "size": 609466,
+              "ref": {
+                "link": "bafkreicrqthug43vagehf6wfm6wh2yif2ffwtl62bbgkp4srws3grctkwy"
+              },
+              "py_type": "blob"
+            },
+            "aspect_ratio": {
+              "height": 2000,
+              "width": 900,
+              "py_type": "app.bsky.embed.defs#aspectRatio"
+            },
+            "py_type": "app.bsky.embed.images#image"
+          }
+        ],
+        "py_type": "app.bsky.embed.images"
+      },
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": null,
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:tuhlyhkol7yxkh5q3mykjqe4/app.bsky.feed.post/3m6vtxsx5422g",
+    "bookmark_count": 1,
+    "debug": null,
+    "embed": {
+      "images": [
+        {
+          "alt": "",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tuhlyhkol7yxkh5q3mykjqe4/bafkreicrqthug43vagehf6wfm6wh2yif2ffwtl62bbgkp4srws3grctkwy@jpeg",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tuhlyhkol7yxkh5q3mykjqe4/bafkreicrqthug43vagehf6wfm6wh2yif2ffwtl62bbgkp4srws3grctkwy@jpeg",
+          "aspect_ratio": {
+            "height": 2000,
+            "width": 900,
+            "py_type": "app.bsky.embed.defs#aspectRatio"
+          },
+          "py_type": "app.bsky.embed.images#viewImage"
+        }
+      ],
+      "py_type": "app.bsky.embed.images#view"
+    },
+    "labels": [],
+    "like_count": 10,
+    "quote_count": 1,
+    "reply_count": 1,
+    "repost_count": 4,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:hhg233lcxmgskqcow47i3bsn",
+      "handle": "maybeimaleo.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": null,
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hhg233lcxmgskqcow47i3bsn/bafkreiea7htvpmovf5p5qucitl5lhh5oeu7adxbrblunsocckvoh4outo4@jpeg",
+      "created_at": "2023-07-25T03:00:40.040Z",
+      "debug": null,
+      "display_name": "The Sage Grouse",
+      "labels": [],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreigdtjl7s6vhcpb5litqsuh5nbzqovsxa3hhm2mutz2osfjt366lu4",
+    "indexed_at": "2025-12-01T07:48:08.730Z",
+    "record": {
+      "created_at": "2025-12-01T07:48:08.474Z",
+      "text": "Wait 'til Mamdani becomes NYC mayor, and that smile finally leaves his face.\n\n(Don't get me wrong \u2013 I really hope he does great things and keeps smiling. But that's rarely how this works.)",
+      "embed": null,
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": null,
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:hhg233lcxmgskqcow47i3bsn/app.bsky.feed.post/3m6vwtnzhhc2f",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": null,
+    "labels": [],
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:bxahq4oybiio4yknnka3f53v",
+      "handle": "revolutionuk.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": null,
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:bxahq4oybiio4yknnka3f53v/bafkreifp25j2tyjplps7lqj6i6dtwuvrxb7hojnmiqdzeunsmefhoxn5aq@jpeg",
+      "created_at": "2025-09-20T07:46:02.895Z",
+      "debug": null,
+      "display_name": "Revolution UK",
+      "labels": [],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreicjmdcbie6vyfhut23xgd6qzadimg7wwyms2dyg2eyj7kfksob7u4",
+    "indexed_at": "2025-12-01T08:44:17.330Z",
+    "record": {
+      "created_at": "2025-12-01T08:44:16.537Z",
+      "text": "He\u2019s also misrepresenting the US system for his argument. The president has to be US born but all other politicians (senators, governors, representatives etc) can be born outside the US, such as Zohran Mamdani\n\nSo if he wants to follow that lead our MPs absolutely can be born outside the UK",
+      "embed": null,
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreiea7au2da6ekn5ryvqhkvmvg2utrohrlmlkvbs2fosyt73ejx6yxi",
+          "uri": "at://did:plc:refbwihhzcqqfulwhcou44sr/app.bsky.feed.post/3m6vi6um6ac2t",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "root": {
+          "cid": "bafyreiea7au2da6ekn5ryvqhkvmvg2utrohrlmlkvbs2fosyt73ejx6yxi",
+          "uri": "at://did:plc:refbwihhzcqqfulwhcou44sr/app.bsky.feed.post/3m6vi6um6ac2t",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "py_type": "app.bsky.feed.post#replyRef"
+      },
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:bxahq4oybiio4yknnka3f53v/app.bsky.feed.post/3m6vzy22mhc2s",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": null,
+    "labels": [],
+    "like_count": 9,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 1,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:zfvxtjekvr44xwbhqzb5fbwt",
+      "handle": "oeildejustice.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": {
+          "allow_incoming": "all",
+          "py_type": "app.bsky.actor.defs#profileAssociatedChat"
+        },
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zfvxtjekvr44xwbhqzb5fbwt/bafkreia55mqtafbww6nxxhxgiotuvayhezxe7ot6dzehrdyynnw3m7peu4@jpeg",
+      "created_at": "2024-11-17T13:59:14.432Z",
+      "debug": null,
+      "display_name": "L'\u0152il de la Justice \ud83e\udeac\u2696\ufe0f",
+      "labels": [
+        {
+          "cts": "2024-11-17T13:59:13.395Z",
+          "src": "did:plc:zfvxtjekvr44xwbhqzb5fbwt",
+          "uri": "at://did:plc:zfvxtjekvr44xwbhqzb5fbwt/app.bsky.actor.profile/self",
+          "val": "!no-unauthenticated",
+          "cid": "bafyreif3wv5fkibl4sbhbpkjiondtov7xbfwpbhttcjwtvcu6levhgl5vi",
+          "exp": null,
+          "neg": null,
+          "sig": null,
+          "ver": null,
+          "py_type": "com.atproto.label.defs#label"
+        }
+      ],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreibqt5jp6yzweg7bx4kexwwkzqqttefi6xdlvi6n5alzmmr6lhj4ae",
+    "indexed_at": "2025-12-01T09:55:35.988Z",
+    "record": {
+      "created_at": "2025-12-01T09:55:34.396Z",
+      "text": "Quand Bompard re\u00e7oit un colis pi\u00e9g\u00e9, on l'invite sur un plateau. \n\nMais pas pour \"d\u00e9battre de ses id\u00e9es\". Pour l'engueuler et lui dire que lui et son Mamdani financent le Hamas et sous-entendre tr\u00e8s implicitement que \"Du coup, en vrai, c'est pas si grave qu'on lui envoie des colis pi\u00e9g\u00e9s non ?\"",
+      "embed": null,
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "fr"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreibh6fkxrsjwnhkkrplzduzpnldok5cfyt6sk6dmzgwoybtub5acaa",
+          "uri": "at://did:plc:zfvxtjekvr44xwbhqzb5fbwt/app.bsky.feed.post/3m6w5xjqzqc23",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "root": {
+          "cid": "bafyreids6w2pljokect4rw2re6hgcingj7cc7k2h7dqysp32r3m536zqba",
+          "uri": "at://did:plc:zfvxtjekvr44xwbhqzb5fbwt/app.bsky.feed.post/3m6w5xjqg7c23",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "py_type": "app.bsky.feed.post#replyRef"
+      },
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:zfvxtjekvr44xwbhqzb5fbwt/app.bsky.feed.post/3m6w5xjr3os23",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": null,
+    "labels": [],
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 0,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
+      "handle": "theguardian.com",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": null,
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreigxxngb5ecgrleg6cqdzvxh4viycmns5cp6zalfl4o7ivmxiavsma@jpeg",
+      "created_at": "2024-11-15T10:51:08.037Z",
+      "debug": null,
+      "display_name": "The Guardian",
+      "labels": [],
+      "pronouns": null,
+      "status": null,
+      "verification": {
+        "trusted_verifier_status": "none",
+        "verifications": [
+          {
+            "created_at": "2025-04-21T10:46:47.021Z",
+            "is_valid": true,
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndptvli4o2z",
+            "py_type": "app.bsky.actor.defs#verificationView"
+          }
+        ],
+        "verified_status": "valid",
+        "py_type": "app.bsky.actor.defs#verificationState"
+      },
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreieahrnxkxugxkhymvgfahm4sbph43cup3aivd2whnjtgakkntysuu",
+    "indexed_at": "2025-12-01T10:59:24.532Z",
+    "record": {
+      "created_at": "2025-12-01T10:59:24.133Z",
+      "text": "The US love of football is reaching new levels. Just look at Arsenal super-fan Zohran Mamdani | Bryan Armen Graham",
+      "embed": {
+        "external": {
+          "description": "The New York mayor-elect\u2019s devotion to a north London club shows how the global game is winning hearts across the US, says Bryan Armen Graham, deputy sport editor of Guardian US",
+          "title": "The US love of football is reaching new levels. Just look at Arsenal super-fan Zohran Mamdani | Bryan Armen Graham",
+          "uri": "https://www.theguardian.com/commentisfree/2025/dec/01/us-football-zohran-mamdani-arsenal-fan?utm_term=Autofeed&CMP=bsky_gu&utm_medium=&utm_source=Bluesky#Echobox=1764585384",
+          "thumb": {
+            "mime_type": "image/jpeg",
+            "size": 141891,
+            "ref": {
+              "link": "bafkreihjcus7s6sxrm6yhpgitzqgojxv7b4siz7iaywc4zlgz3m6iltg4q"
+            },
+            "py_type": "blob"
+          },
+          "py_type": "app.bsky.embed.external#external"
+        },
+        "py_type": "app.bsky.embed.external"
+      },
+      "entities": null,
+      "facets": [],
+      "labels": null,
+      "langs": null,
+      "reply": null,
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3m6wbjo7qh52n",
+    "bookmark_count": 1,
+    "debug": null,
+    "embed": {
+      "external": {
+        "description": "The New York mayor-elect\u2019s devotion to a north London club shows how the global game is winning hearts across the US, says Bryan Armen Graham, deputy sport editor of Guardian US",
+        "title": "The US love of football is reaching new levels. Just look at Arsenal super-fan Zohran Mamdani | Bryan Armen Graham",
+        "uri": "https://www.theguardian.com/commentisfree/2025/dec/01/us-football-zohran-mamdani-arsenal-fan?utm_term=Autofeed&CMP=bsky_gu&utm_medium=&utm_source=Bluesky#Echobox=1764585384",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreihjcus7s6sxrm6yhpgitzqgojxv7b4siz7iaywc4zlgz3m6iltg4q@jpeg",
+        "py_type": "app.bsky.embed.external#viewExternal"
+      },
+      "py_type": "app.bsky.embed.external#view"
+    },
+    "labels": [],
+    "like_count": 58,
+    "quote_count": 4,
+    "reply_count": 3,
+    "repost_count": 8,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:xtmfswy2ghvaencd3myldle5",
+      "handle": "2bblue.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": {
+          "allow_incoming": "all",
+          "py_type": "app.bsky.actor.defs#profileAssociatedChat"
+        },
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xtmfswy2ghvaencd3myldle5/bafkreigwu5lb42yldin73hj7kxwmmbgfimrgkzaxnqagrbx3wgjgxuezwe@jpeg",
+      "created_at": "2025-05-19T07:23:52.838Z",
+      "debug": null,
+      "display_name": "Born2bBlue",
+      "labels": [],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreidyncvuatkmfc2i4rfcstitwedzfbysedxykcic5yidu242cp5muq",
+    "indexed_at": "2025-12-01T11:51:36.732Z",
+    "record": {
+      "created_at": "2025-12-01T11:51:36.476Z",
+      "text": "Clean it all up Mamdani! With big brooms and big ideas!",
+      "embed": {
+        "record": {
+          "cid": "bafyreibdsazifvktn4is7pjojtyichrms5y7b5lll2npnmxalzs6scxgeu",
+          "uri": "at://did:plc:j5hrotody26iqi24hcusufxu/app.bsky.feed.post/3m6unep77ps2e",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "py_type": "app.bsky.embed.record"
+      },
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": null,
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:xtmfswy2ghvaencd3myldle5/app.bsky.feed.post/3m6wegzcdf22x",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": {
+      "record": {
+        "author": {
+          "did": "did:plc:j5hrotody26iqi24hcusufxu",
+          "handle": "zohrankmamdani.bsky.social",
+          "associated": {
+            "activity_subscription": {
+              "allow_subscriptions": "followers",
+              "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+            },
+            "chat": null,
+            "feedgens": null,
+            "labeler": null,
+            "lists": null,
+            "starter_packs": null,
+            "py_type": "app.bsky.actor.defs#profileAssociated"
+          },
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:j5hrotody26iqi24hcusufxu/bafkreia4nx4m22jfymda7r5mqzjhquwveaof56tjma3u3tycu5nozvdzha@jpeg",
+          "created_at": "2023-04-27T23:48:46.812Z",
+          "debug": null,
+          "display_name": "Zohran Kwame Mamdani",
+          "labels": [],
+          "pronouns": null,
+          "status": null,
+          "verification": {
+            "trusted_verifier_status": "none",
+            "verifications": [
+              {
+                "created_at": "2025-06-25T15:41:27.827Z",
+                "is_valid": true,
+                "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lsgx5ntdng2d",
+                "py_type": "app.bsky.actor.defs#verificationView"
+              }
+            ],
+            "verified_status": "valid",
+            "py_type": "app.bsky.actor.defs#verificationState"
+          },
+          "viewer": {
+            "activity_subscription": null,
+            "blocked_by": false,
+            "blocking": null,
+            "blocking_by_list": null,
+            "followed_by": null,
+            "following": null,
+            "known_followers": null,
+            "muted": false,
+            "muted_by_list": null,
+            "py_type": "app.bsky.actor.defs#viewerState"
+          },
+          "py_type": "app.bsky.actor.defs#profileViewBasic"
+        },
+        "cid": "bafyreibdsazifvktn4is7pjojtyichrms5y7b5lll2npnmxalzs6scxgeu",
+        "indexed_at": "2025-11-30T19:26:05.942Z",
+        "uri": "at://did:plc:j5hrotody26iqi24hcusufxu/app.bsky.feed.post/3m6unep77ps2e",
+        "value": {
+          "created_at": "2025-11-30T19:26:02.979Z",
+          "text": "Donate to help us build a city we can all afford: secure.actblue.com/donate/cc4zm",
+          "embed": {
+            "external": {
+              "description": "Show your support with a contribution.",
+              "title": "Donate to Zohran Mamdani Transition",
+              "uri": "https://secure.actblue.com/donate/cc4zm",
+              "thumb": {
+                "mime_type": "image/jpeg",
+                "size": 810355,
+                "ref": {
+                  "link": "bafkreig36cahqvkivz5k7z4efqbi4fvf27ppmwaehcforysru3edysjet4"
+                },
+                "py_type": "blob"
+              },
+              "py_type": "app.bsky.embed.external#external"
+            },
+            "py_type": "app.bsky.embed.external"
+          },
+          "entities": null,
+          "facets": [
+            {
+              "features": [
+                {
+                  "uri": "https://secure.actblue.com/donate/cc4zm",
+                  "py_type": "app.bsky.richtext.facet#link"
+                }
+              ],
+              "index": {
+                "byte_end": 81,
+                "byte_start": 50,
+                "py_type": "app.bsky.richtext.facet#byteSlice"
+              },
+              "py_type": "app.bsky.richtext.facet"
+            }
+          ],
+          "labels": null,
+          "langs": [
+            "en"
+          ],
+          "reply": {
+            "parent": {
+              "cid": "bafyreibuhmmv2m37nmkkatkxdkpsbsllxp4lud3bkosxdjgooltsxljffq",
+              "uri": "at://did:plc:j5hrotody26iqi24hcusufxu/app.bsky.feed.post/3m6umqggjwc2e",
+              "py_type": "com.atproto.repo.strongRef"
+            },
+            "root": {
+              "cid": "bafyreibuhmmv2m37nmkkatkxdkpsbsllxp4lud3bkosxdjgooltsxljffq",
+              "uri": "at://did:plc:j5hrotody26iqi24hcusufxu/app.bsky.feed.post/3m6umqggjwc2e",
+              "py_type": "com.atproto.repo.strongRef"
+            },
+            "py_type": "app.bsky.feed.post#replyRef"
+          },
+          "tags": null,
+          "py_type": "app.bsky.feed.post"
+        },
+        "embeds": [
+          {
+            "external": {
+              "description": "Show your support with a contribution.",
+              "title": "Donate to Zohran Mamdani Transition",
+              "uri": "https://secure.actblue.com/donate/cc4zm",
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j5hrotody26iqi24hcusufxu/bafkreig36cahqvkivz5k7z4efqbi4fvf27ppmwaehcforysru3edysjet4@jpeg",
+              "py_type": "app.bsky.embed.external#viewExternal"
+            },
+            "py_type": "app.bsky.embed.external#view"
+          }
+        ],
+        "labels": [],
+        "like_count": 333,
+        "quote_count": 3,
+        "reply_count": 13,
+        "repost_count": 45,
+        "py_type": "app.bsky.embed.record#viewRecord"
+      },
+      "py_type": "app.bsky.embed.record#view"
+    },
+    "labels": [],
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:aiwdikara4nttlpz3k43gsuq",
+      "handle": "calizaybak.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": {
+          "allow_incoming": "following",
+          "py_type": "app.bsky.actor.defs#profileAssociatedChat"
+        },
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aiwdikara4nttlpz3k43gsuq/bafkreihzt6nkjv6q4avgrllbssqa6oliiuzhgqzw3267kwn6hkb4ifa2ay@jpeg",
+      "created_at": "2023-07-21T20:15:23.935Z",
+      "debug": null,
+      "display_name": "",
+      "labels": [
+        {
+          "cts": "1970-01-01T00:00:00.000Z",
+          "src": "did:plc:aiwdikara4nttlpz3k43gsuq",
+          "uri": "at://did:plc:aiwdikara4nttlpz3k43gsuq/app.bsky.actor.profile/self",
+          "val": "!no-unauthenticated",
+          "cid": "bafyreidcuzb6ul7mduflkee6ekiiod7jhh3nu6qvjup5xxmrmvp6wivepu",
+          "exp": null,
+          "neg": null,
+          "sig": null,
+          "ver": null,
+          "py_type": "com.atproto.label.defs#label"
+        }
+      ],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreigbpwmwtwpbgftp3uwoygiye62hbkbeiestxkbh2kjeh7q24qsdh4",
+    "indexed_at": "2025-12-01T12:59:58.430Z",
+    "record": {
+      "created_at": "2025-12-01T12:59:57.853Z",
+      "text": "Yes but the problem there is the top tier of the DNC are doing all they can to prevent that. \n\nFrom Hogg to their efforts against Mamdani they want to maintain the status quo.",
+      "embed": null,
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreibwtgv5jkueofrmuozzucinstqvdy7tpxtvrobt7prwrr5gdtvmui",
+          "uri": "at://did:plc:dmairgr2vmujawokkzrdl5vh/app.bsky.feed.post/3m6wi5j3ek22z",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "root": {
+          "cid": "bafyreid7roplzoygihvon55a5cxexbblsxahsurlivkeells2e6be2ub3i",
+          "uri": "at://did:plc:2orsuabrdskjpuglpru77po2/app.bsky.feed.post/3m6wgf56ja22j",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "py_type": "app.bsky.feed.post#replyRef"
+      },
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:aiwdikara4nttlpz3k43gsuq/app.bsky.feed.post/3m6wibaoff22g",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": null,
+    "labels": [],
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 0,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:vqr6qcne2dya6o46z2citxdk",
+      "handle": "ginsengity.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": {
+          "allow_incoming": "none",
+          "py_type": "app.bsky.actor.defs#profileAssociatedChat"
+        },
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vqr6qcne2dya6o46z2citxdk/bafkreicv2qe4fdbag6gno7ayzqpsntjs5wgo4rq4tqzmuaux56npwikf2i@jpeg",
+      "created_at": "2024-11-11T18:46:52.105Z",
+      "debug": null,
+      "display_name": "Molten Irony (Wade)",
+      "labels": [
+        {
+          "cts": "2024-11-11T18:46:51.359Z",
+          "src": "did:plc:vqr6qcne2dya6o46z2citxdk",
+          "uri": "at://did:plc:vqr6qcne2dya6o46z2citxdk/app.bsky.actor.profile/self",
+          "val": "!no-unauthenticated",
+          "cid": "bafyreie4yyqx7ajeaocbj25z7bu5d2lv3kdwtkqbbvzpptaa6qcuzmlslu",
+          "exp": null,
+          "neg": null,
+          "sig": null,
+          "ver": null,
+          "py_type": "com.atproto.label.defs#label"
+        }
+      ],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreiaf4c7jozumr5vgsqymtgcljuxhfcd4tcfgurrl647zgetyiapuze",
+    "indexed_at": "2025-12-01T13:59:52.830Z",
+    "record": {
+      "created_at": "2025-12-01T13:59:51.474Z",
+      "text": "Why would I shop at a non-union retailer? I don't use non-union services like FedEx either. I drive a union-made vehicle. I quit the Washington Post & support Mamdani.\nBut I think I'm a \"centrist\" still because I know you can't stop genocide ANYWHERE if we don't first stop FASCISM IN THE USA.",
+      "embed": null,
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreif6axa5n24cxvsgluj7og5yyfdkb2qacmfdb5gtqp2pmxagf5wvii",
+          "uri": "at://did:plc:vqr6qcne2dya6o46z2citxdk/app.bsky.feed.post/3m6wlgsknbc22",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "root": {
+          "cid": "bafyreif6axa5n24cxvsgluj7og5yyfdkb2qacmfdb5gtqp2pmxagf5wvii",
+          "uri": "at://did:plc:vqr6qcne2dya6o46z2citxdk/app.bsky.feed.post/3m6wlgsknbc22",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "py_type": "app.bsky.feed.post#replyRef"
+      },
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:vqr6qcne2dya6o46z2citxdk/app.bsky.feed.post/3m6wlmdsyvc22",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": null,
+    "labels": [],
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:nvjldga2njegbwbtaram6dyj",
+      "handle": "anonsnark.com",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": {
+          "allow_incoming": "following",
+          "py_type": "app.bsky.actor.defs#profileAssociatedChat"
+        },
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nvjldga2njegbwbtaram6dyj/bafkreifzf26sijavkdei5kavnne52kwgrlrywkkh36m6xbtupeqeyed2za@jpeg",
+      "created_at": "2024-11-21T16:17:39.570Z",
+      "debug": null,
+      "display_name": "AnonSnark",
+      "labels": [
+        {
+          "cts": "2024-11-21T16:17:38.688Z",
+          "src": "did:plc:nvjldga2njegbwbtaram6dyj",
+          "uri": "at://did:plc:nvjldga2njegbwbtaram6dyj/app.bsky.actor.profile/self",
+          "val": "!no-unauthenticated",
+          "cid": "bafyreidwtsfxdbpnkeipezyz5cuu4z426ove2w5zm73pebxkzu534s7nru",
+          "exp": null,
+          "neg": null,
+          "sig": null,
+          "ver": null,
+          "py_type": "com.atproto.label.defs#label"
+        }
+      ],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreid6k7xmrgejsap3id75jptwthp7jtt75lmjkgcjeyweaq65wtzosu",
+    "indexed_at": "2025-12-01T14:59:22.631Z",
+    "record": {
+      "created_at": "2025-12-01T14:59:20.298Z",
+      "text": "and do not imply im seeking purity.\n\nsome things are pass/fail despite the efforts of lobbyists to lie that everything has a gray area\n\nplay disaster capitalism for votes.\n\ngood luck w that. mamdani won hakkeems district by 12 points. among democrats.\n\nur donuts are gonna be a tough sell this year",
+      "embed": {
+        "images": [
+          {
+            "alt": "",
+            "image": {
+              "mime_type": "image/jpeg",
+              "size": 748511,
+              "ref": {
+                "link": "bafkreigga5m3ohznhxvgb2jeovbfryzww5e577ac4nu6wb3jv2faggmdwa"
+              },
+              "py_type": "blob"
+            },
+            "aspect_ratio": {
+              "height": 1024,
+              "width": 1024,
+              "py_type": "app.bsky.embed.defs#aspectRatio"
+            },
+            "py_type": "app.bsky.embed.images#image"
+          }
+        ],
+        "py_type": "app.bsky.embed.images"
+      },
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreiexuu2b7soim6vj6zxizbnvoiai4scmq7d6srfsmgav7iiq4rl4zy",
+          "uri": "at://did:plc:k4jnodlhm6qgfwkchbhislqf/app.bsky.feed.post/3m6wmtjv2ys25",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "root": {
+          "cid": "bafyreibgrp3uubrn5nff4jacly4cjygbpxp5vpbhkppc6vxnddhw77anxa",
+          "uri": "at://did:plc:uo2fna47c4v6zcnklxfhcvjb/app.bsky.feed.post/3m6u56r7eac25",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "py_type": "app.bsky.feed.post#replyRef"
+      },
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:nvjldga2njegbwbtaram6dyj/app.bsky.feed.post/3m6wowpcwjs2e",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": {
+      "images": [
+        {
+          "alt": "",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nvjldga2njegbwbtaram6dyj/bafkreigga5m3ohznhxvgb2jeovbfryzww5e577ac4nu6wb3jv2faggmdwa@jpeg",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nvjldga2njegbwbtaram6dyj/bafkreigga5m3ohznhxvgb2jeovbfryzww5e577ac4nu6wb3jv2faggmdwa@jpeg",
+          "aspect_ratio": {
+            "height": 1024,
+            "width": 1024,
+            "py_type": "app.bsky.embed.defs#aspectRatio"
+          },
+          "py_type": "app.bsky.embed.images#viewImage"
+        }
+      ],
+      "py_type": "app.bsky.embed.images#view"
+    },
+    "labels": [],
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 0,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:ctqmeiuhmqfzcqcxy5wz2iwa",
+      "handle": "silkscreenfiend.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": {
+          "allow_incoming": "all",
+          "py_type": "app.bsky.actor.defs#profileAssociatedChat"
+        },
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ctqmeiuhmqfzcqcxy5wz2iwa/bafkreif4zafvtm3voylg7orflcc3gszyvexwqaho5z2zdnoih47g32vu6u@jpeg",
+      "created_at": "2023-06-27T16:48:37.006Z",
+      "debug": null,
+      "display_name": "Jared Friedman \ud83c\uddfa\ud83c\udde6",
+      "labels": [
+        {
+          "cts": "1970-01-01T00:00:00.000Z",
+          "src": "did:plc:ctqmeiuhmqfzcqcxy5wz2iwa",
+          "uri": "at://did:plc:ctqmeiuhmqfzcqcxy5wz2iwa/app.bsky.actor.profile/self",
+          "val": "!no-unauthenticated",
+          "cid": "bafyreiaw53mi7y4ld2i7swlupdt27gjuwxulkt63vkx2awtyzsalowlj6u",
+          "exp": null,
+          "neg": null,
+          "sig": null,
+          "ver": null,
+          "py_type": "com.atproto.label.defs#label"
+        }
+      ],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreicfx4czyqph6gnq4knu42ofwn6hz66ffdifu7kuwpdwhfkrugfriy",
+    "indexed_at": "2025-12-01T15:59:04.834Z",
+    "record": {
+      "created_at": "2025-12-01T15:59:03.794Z",
+      "text": "Interesting that one of the standard talking points used against the campaign was that if Mamdani won, rich people would leave the city. One group threatening to leave out of spite, while another might be forced to leave out of necessity.",
+      "embed": {
+        "record": {
+          "cid": "bafyreifsemfg2l4476i2urqbzdczlg74s7yfecctgipspmxroctmzicqd4",
+          "uri": "at://did:plc:j5hrotody26iqi24hcusufxu/app.bsky.feed.post/3m6v5bf77ls26",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "py_type": "app.bsky.embed.record"
+      },
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": null,
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:ctqmeiuhmqfzcqcxy5wz2iwa/app.bsky.feed.post/3m6wsbisjek2d",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": {
+      "record": {
+        "author": {
+          "did": "did:plc:j5hrotody26iqi24hcusufxu",
+          "handle": "zohrankmamdani.bsky.social",
+          "associated": {
+            "activity_subscription": {
+              "allow_subscriptions": "followers",
+              "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+            },
+            "chat": null,
+            "feedgens": null,
+            "labeler": null,
+            "lists": null,
+            "starter_packs": null,
+            "py_type": "app.bsky.actor.defs#profileAssociated"
+          },
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:j5hrotody26iqi24hcusufxu/bafkreia4nx4m22jfymda7r5mqzjhquwveaof56tjma3u3tycu5nozvdzha@jpeg",
+          "created_at": "2023-04-27T23:48:46.812Z",
+          "debug": null,
+          "display_name": "Zohran Kwame Mamdani",
+          "labels": [],
+          "pronouns": null,
+          "status": null,
+          "verification": {
+            "trusted_verifier_status": "none",
+            "verifications": [
+              {
+                "created_at": "2025-06-25T15:41:27.827Z",
+                "is_valid": true,
+                "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+                "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lsgx5ntdng2d",
+                "py_type": "app.bsky.actor.defs#verificationView"
+              }
+            ],
+            "verified_status": "valid",
+            "py_type": "app.bsky.actor.defs#verificationState"
+          },
+          "viewer": {
+            "activity_subscription": null,
+            "blocked_by": false,
+            "blocking": null,
+            "blocking_by_list": null,
+            "followed_by": null,
+            "following": null,
+            "known_followers": null,
+            "muted": false,
+            "muted_by_list": null,
+            "py_type": "app.bsky.actor.defs#viewerState"
+          },
+          "py_type": "app.bsky.actor.defs#profileViewBasic"
+        },
+        "cid": "bafyreifsemfg2l4476i2urqbzdczlg74s7yfecctgipspmxroctmzicqd4",
+        "indexed_at": "2025-12-01T00:11:36.632Z",
+        "uri": "at://did:plc:j5hrotody26iqi24hcusufxu/app.bsky.feed.post/3m6v5bf77ls26",
+        "value": {
+          "created_at": "2025-12-01T00:10:31.684Z",
+          "text": "New Yorkers kept telling me the same thing: they\u2019re thinking of leaving because they can\u2019t afford to raise their kids here. Universal childcare isn\u2019t just a promise \u2014 it\u2019s how we make this a city for everyone.",
+          "embed": {
+            "images": [
+              {
+                "alt": "",
+                "image": {
+                  "mime_type": "image/jpeg",
+                  "size": 866525,
+                  "ref": {
+                    "link": "bafkreiebmzjvxb4yjentigk32oxldobnkqlvc3sadoo55micbzdgu3h52m"
+                  },
+                  "py_type": "blob"
+                },
+                "aspect_ratio": {
+                  "height": 2000,
+                  "width": 2000,
+                  "py_type": "app.bsky.embed.defs#aspectRatio"
+                },
+                "py_type": "app.bsky.embed.images#image"
+              }
+            ],
+            "py_type": "app.bsky.embed.images"
+          },
+          "entities": null,
+          "facets": null,
+          "labels": null,
+          "langs": [
+            "en"
+          ],
+          "reply": null,
+          "tags": null,
+          "py_type": "app.bsky.feed.post"
+        },
+        "embeds": [
+          {
+            "images": [
+              {
+                "alt": "",
+                "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:j5hrotody26iqi24hcusufxu/bafkreiebmzjvxb4yjentigk32oxldobnkqlvc3sadoo55micbzdgu3h52m@jpeg",
+                "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j5hrotody26iqi24hcusufxu/bafkreiebmzjvxb4yjentigk32oxldobnkqlvc3sadoo55micbzdgu3h52m@jpeg",
+                "aspect_ratio": {
+                  "height": 2000,
+                  "width": 2000,
+                  "py_type": "app.bsky.embed.defs#aspectRatio"
+                },
+                "py_type": "app.bsky.embed.images#viewImage"
+              }
+            ],
+            "py_type": "app.bsky.embed.images#view"
+          }
+        ],
+        "labels": [],
+        "like_count": 9447,
+        "quote_count": 46,
+        "reply_count": 142,
+        "repost_count": 1443,
+        "py_type": "app.bsky.embed.record#viewRecord"
+      },
+      "py_type": "app.bsky.embed.record#view"
+    },
+    "labels": [],
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 1,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:h3ki44q6c2jrhhphbwfr7yaf",
+      "handle": "editorialboard.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": {
+          "allow_incoming": "all",
+          "py_type": "app.bsky.actor.defs#profileAssociatedChat"
+        },
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:h3ki44q6c2jrhhphbwfr7yaf/bafkreia5y6rsmsu5pmpyxhqs4mm2d6msfocdwd7wjdnkxkueivogbwipxi@jpeg",
+      "created_at": "2024-11-11T16:38:28.879Z",
+      "debug": null,
+      "display_name": "The Editorial Board",
+      "labels": [],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreiaxzxwfzi4rpdfsxv4fqqncnogjteqlshduw5ejzcrv5scw3ilcju",
+    "indexed_at": "2025-12-01T16:59:14.129Z",
+    "record": {
+      "created_at": "2025-12-01T16:59:13.500Z",
+      "text": "I haven\u2019t heard anything from Mamdani that\u2019s actually anti-capitalist. Have you?",
+      "embed": null,
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": null,
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:h3ki44q6c2jrhhphbwfr7yaf/app.bsky.feed.post/3m6wvn3bxvs2p",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": null,
+    "labels": [],
+    "like_count": 31,
+    "quote_count": 0,
+    "reply_count": 4,
+    "repost_count": 1,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:gvzqvtl4quds6ktbef5k3hck",
+      "handle": "caveatofcass.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": null,
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gvzqvtl4quds6ktbef5k3hck/bafkreifne74zuybxabc6sbg2f4p5trbt3r3yizca7oksoqxxzuny2pujs4@jpeg",
+      "created_at": "2024-11-16T00:41:26.807Z",
+      "debug": null,
+      "display_name": "Cass",
+      "labels": [
+        {
+          "cts": "2024-11-16T00:41:11.401Z",
+          "src": "did:plc:gvzqvtl4quds6ktbef5k3hck",
+          "uri": "at://did:plc:gvzqvtl4quds6ktbef5k3hck/app.bsky.actor.profile/self",
+          "val": "!no-unauthenticated",
+          "cid": "bafyreib3yrclsd4tq7bpv6khium3n7kbiwc5v4pzy6dtviquykksltolku",
+          "exp": null,
+          "neg": null,
+          "sig": null,
+          "ver": null,
+          "py_type": "com.atproto.label.defs#label"
+        }
+      ],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreiej23merbzvibqz2s4zokp3utd6zytexsk3uzgmowkawpslytjqne",
+    "indexed_at": "2025-12-01T17:59:43.129Z",
+    "record": {
+      "created_at": "2025-12-01T17:59:42.226Z",
+      "text": "Yeah, I watched the meeting, and Mamdani looked fucking stupid. Sorry I don't kiss politician's asses so long as they're men.",
+      "embed": null,
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreieoully4r65hfbrt3w622cnuirsjc5kvt3luyxmvh53yd6yzcotwi",
+          "uri": "at://did:plc:32um3ycbee62ni3xutszvfkp/app.bsky.feed.post/3m6wywbmwoc2f",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "root": {
+          "cid": "bafyreif222mmvkm6viqhzj5je6zesnncrzywqe5k6cc3dz5biouy5oup6u",
+          "uri": "at://did:plc:mmtjkssv6jeneahkgfdxuy7p/app.bsky.feed.post/3m6spb6jrrs2l",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "py_type": "app.bsky.feed.post#replyRef"
+      },
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:gvzqvtl4quds6ktbef5k3hck/app.bsky.feed.post/3m6wyz7vwmk2x",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": null,
+    "labels": [],
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 0,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:idfozrgxosvj6clz5ssugc33",
+      "handle": "nateschenkkan.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "none",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": {
+          "allow_incoming": "following",
+          "py_type": "app.bsky.actor.defs#profileAssociatedChat"
+        },
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:idfozrgxosvj6clz5ssugc33/bafkreig7ekjwgobum7kamdwy57naxsgrbatwd2ckrslwf4zzc5qddmz5ca@jpeg",
+      "created_at": "2023-09-05T11:02:22.772Z",
+      "debug": null,
+      "display_name": "Nate Schenkkan",
+      "labels": [
+        {
+          "cts": "1970-01-01T00:00:00.000Z",
+          "src": "did:plc:idfozrgxosvj6clz5ssugc33",
+          "uri": "at://did:plc:idfozrgxosvj6clz5ssugc33/app.bsky.actor.profile/self",
+          "val": "!no-unauthenticated",
+          "cid": "bafyreic57xku6yqrzfcdtymdtyyik5nkl5b5fvmp4nilsk36xl54ucw4xa",
+          "exp": null,
+          "neg": null,
+          "sig": null,
+          "ver": null,
+          "py_type": "com.atproto.label.defs#label"
+        }
+      ],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreict5f7fukqtnwopjqrwolpg2dhfyiozqmyjfeudotzhcdow6apege",
+    "indexed_at": "2025-12-01T18:56:06.535Z",
+    "record": {
+      "created_at": "2025-12-01T18:56:06.390Z",
+      "text": "The real test for Mamdani will be if he does something about double parking",
+      "embed": {
+        "record": {
+          "cid": "bafyreiabaiceqz2vvqkykiq2cxt6n6xblczmlgxlu6jhh6saqjedumkfoq",
+          "uri": "at://did:plc:ib775d5zdeu4cgcx6ivtiand/app.bsky.feed.post/3m6wysnz5lo2l",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "py_type": "app.bsky.embed.record"
+      },
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": null,
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:idfozrgxosvj6clz5ssugc33/app.bsky.feed.post/3m6x463cfcc2p",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": {
+      "record": {
+        "author": {
+          "did": "did:plc:ib775d5zdeu4cgcx6ivtiand",
+          "handle": "nyc.streetsblog.org",
+          "associated": {
+            "activity_subscription": {
+              "allow_subscriptions": "followers",
+              "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+            },
+            "chat": null,
+            "feedgens": null,
+            "labeler": null,
+            "lists": null,
+            "starter_packs": null,
+            "py_type": "app.bsky.actor.defs#profileAssociated"
+          },
+          "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ib775d5zdeu4cgcx6ivtiand/bafkreihb6xgfzpemziwywgz5xsjxcpeawivm3xvffdmge3gnn55lk74yiy@jpeg",
+          "created_at": "2023-06-15T17:13:35.090Z",
+          "debug": null,
+          "display_name": "Streetsblog NYC",
+          "labels": [],
+          "pronouns": null,
+          "status": null,
+          "verification": null,
+          "viewer": {
+            "activity_subscription": null,
+            "blocked_by": false,
+            "blocking": null,
+            "blocking_by_list": null,
+            "followed_by": null,
+            "following": null,
+            "known_followers": null,
+            "muted": false,
+            "muted_by_list": null,
+            "py_type": "app.bsky.actor.defs#viewerState"
+          },
+          "py_type": "app.bsky.actor.defs#profileViewBasic"
+        },
+        "cid": "bafyreiabaiceqz2vvqkykiq2cxt6n6xblczmlgxlu6jhh6saqjedumkfoq",
+        "indexed_at": "2025-12-01T17:56:04.733Z",
+        "uri": "at://did:plc:ib775d5zdeu4cgcx6ivtiand/app.bsky.feed.post/3m6wysnz5lo2l",
+        "value": {
+          "created_at": "2025-12-01T17:56:00.847Z",
+          "text": "The solutions for faster bus service are obvious \u2014 it\u2019s the politics that always get in the way, writes a former MTA bus official.",
+          "embed": {
+            "external": {
+              "description": "The solutions for faster bus service are obvious \u2014 it\u2019s the politics that always get in the way, writes a former MTA bus official.",
+              "title": "Memo to Mamdani: When It Comes to Faster Buses, The Challenge Is Political - Streetsblog New York City",
+              "uri": "https://buff.ly/GiKmi6y",
+              "thumb": {
+                "mime_type": "image/jpeg",
+                "size": 177257,
+                "ref": {
+                  "link": "bafkreic4t2axnqimxroo5ikwzfaagtvxtak4l4jc4vxsadw2464lirmfc4"
+                },
+                "py_type": "blob"
+              },
+              "py_type": "app.bsky.embed.external#external"
+            },
+            "py_type": "app.bsky.embed.external"
+          },
+          "entities": null,
+          "facets": null,
+          "labels": null,
+          "langs": null,
+          "reply": null,
+          "tags": null,
+          "py_type": "app.bsky.feed.post"
+        },
+        "embeds": [
+          {
+            "external": {
+              "description": "The solutions for faster bus service are obvious \u2014 it\u2019s the politics that always get in the way, writes a former MTA bus official.",
+              "title": "Memo to Mamdani: When It Comes to Faster Buses, The Challenge Is Political - Streetsblog New York City",
+              "uri": "https://buff.ly/GiKmi6y",
+              "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ib775d5zdeu4cgcx6ivtiand/bafkreic4t2axnqimxroo5ikwzfaagtvxtak4l4jc4vxsadw2464lirmfc4@jpeg",
+              "py_type": "app.bsky.embed.external#viewExternal"
+            },
+            "py_type": "app.bsky.embed.external#view"
+          }
+        ],
+        "labels": [],
+        "like_count": 17,
+        "quote_count": 3,
+        "reply_count": 0,
+        "repost_count": 3,
+        "py_type": "app.bsky.embed.record#viewRecord"
+      },
+      "py_type": "app.bsky.embed.record#view"
+    },
+    "labels": [],
+    "like_count": 7,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 0,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:nqfe34zrm3swjqxann5blgbe",
+      "handle": "stopgenai.com",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": {
+          "allow_incoming": "following",
+          "py_type": "app.bsky.actor.defs#profileAssociatedChat"
+        },
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nqfe34zrm3swjqxann5blgbe/bafkreibms3i4l3dzvwkcqfmkkhow45jydfaatftpi4jizmo53h7ajytwki@jpeg",
+      "created_at": "2023-08-18T20:28:26.034Z",
+      "debug": null,
+      "display_name": "Kim Crawley (she/her) \ud83d\ude37\ud83c\udf49",
+      "labels": [],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreiddoxug4nd5toeog54ttmglyxymsaswoupna3kmwk2r7h4a4i6f4i",
+    "indexed_at": "2025-12-01T19:59:48.734Z",
+    "record": {
+      "created_at": "2025-12-01T19:59:48.375Z",
+      "text": "It could've\nenshrined abortion rights, civil\nrights, voting rights into law - but it\ndidn't. Because its function isn't\nliberation, it's management:\ncapitalism's babysitter, white\nsupremacy's middleman, the two-\nparty system's bodyguard. 2/2\n\nThis also applies to Zohran Mamdani, BTW.",
+      "embed": null,
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreidcpi67ee6vqh5twfak72ihcbqz7gvx2b6mx2ahijsm3ycp7mpsp4",
+          "uri": "at://did:plc:nqfe34zrm3swjqxann5blgbe/app.bsky.feed.post/3m6x7oxw4n224",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "root": {
+          "cid": "bafyreidcpi67ee6vqh5twfak72ihcbqz7gvx2b6mx2ahijsm3ycp7mpsp4",
+          "uri": "at://did:plc:nqfe34zrm3swjqxann5blgbe/app.bsky.feed.post/3m6x7oxw4n224",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "py_type": "app.bsky.feed.post#replyRef"
+      },
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:nqfe34zrm3swjqxann5blgbe/app.bsky.feed.post/3m6x7pya4jk24",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": null,
+    "labels": [],
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:y522fbumuj7imq3pmyehyqwi",
+      "handle": "chalkbeat.org",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": null,
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:y522fbumuj7imq3pmyehyqwi/bafkreicmc7d33fstokvm26sw76zg4wcj6e3b4wieruhpieqtc56n5auqhu@jpeg",
+      "created_at": "2024-09-18T01:15:41.309Z",
+      "debug": null,
+      "display_name": "Chalkbeat",
+      "labels": [],
+      "pronouns": null,
+      "status": null,
+      "verification": {
+        "trusted_verifier_status": "none",
+        "verifications": [
+          {
+            "created_at": "2025-07-10T15:14:22.779Z",
+            "is_valid": true,
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3ltmmmztncx24",
+            "py_type": "app.bsky.actor.defs#verificationView"
+          }
+        ],
+        "verified_status": "valid",
+        "py_type": "app.bsky.actor.defs#verificationState"
+      },
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreifraer2wanmzpfwvx3dfoiiequk6at3zaeplveqteypnvr2wabr3q",
+    "indexed_at": "2025-12-01T20:56:09.439Z",
+    "record": {
+      "created_at": "2025-12-01T20:56:08Z",
+      "text": "The waitlist for child care vouchers swelled to 10,000 children, forcing low-income working parents to rely on unstable care. Can Mayor-elect Zohran Mamdani fix the problem?",
+      "embed": {
+        "external": {
+          "description": "The waitlist for child care vouchers swelled to 10,000 children, forcing low-income working parents to rely on unstable care. Can Mayor-elect Zohran Mamdani fix the problem?",
+          "title": "NYC\u2019s child care voucher waitlist swells to 10,000, leaving working parents in the lurch",
+          "uri": "https://bit.ly/3KAW4WP",
+          "thumb": {
+            "mime_type": "image/jpeg",
+            "size": 167765,
+            "ref": {
+              "link": "bafkreibcgmphnaorjy3vooxt7hikhisviccws4gwb4lbw43b2u556c34kq"
+            },
+            "py_type": "blob"
+          },
+          "py_type": "app.bsky.embed.external#external"
+        },
+        "py_type": "app.bsky.embed.external"
+      },
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": null,
+      "reply": null,
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:y522fbumuj7imq3pmyehyqwi/app.bsky.feed.post/3m6xcuqghpe2n",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": {
+      "external": {
+        "description": "The waitlist for child care vouchers swelled to 10,000 children, forcing low-income working parents to rely on unstable care. Can Mayor-elect Zohran Mamdani fix the problem?",
+        "title": "NYC\u2019s child care voucher waitlist swells to 10,000, leaving working parents in the lurch",
+        "uri": "https://bit.ly/3KAW4WP",
+        "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:y522fbumuj7imq3pmyehyqwi/bafkreibcgmphnaorjy3vooxt7hikhisviccws4gwb4lbw43b2u556c34kq@jpeg",
+        "py_type": "app.bsky.embed.external#viewExternal"
+      },
+      "py_type": "app.bsky.embed.external#view"
+    },
+    "labels": [],
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 2,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:je2btexejn5mrwze57y4aupo",
+      "handle": "lizc3d.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": {
+          "allow_incoming": "all",
+          "py_type": "app.bsky.actor.defs#profileAssociatedChat"
+        },
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:je2btexejn5mrwze57y4aupo/bafkreib5oael75lf46aoo7fxgplsaja67n3wdlcvpuz4y2suooxgvwlc6u@jpeg",
+      "created_at": "2023-07-23T23:43:45.358Z",
+      "debug": null,
+      "display_name": "Liz",
+      "labels": [],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreigyha7tyl6pwnnddelbgskkla5dqmbx3zf43mms2373knfnajhzie",
+    "indexed_at": "2025-12-01T21:58:21.636Z",
+    "record": {
+      "created_at": "2025-12-01T21:58:18.139Z",
+      "text": "",
+      "embed": {
+        "images": [
+          {
+            "alt": "no results for \"zosan mamdani\"",
+            "image": {
+              "mime_type": "image/jpeg",
+              "size": 73690,
+              "ref": {
+                "link": "bafkreihrli5uhu7ttucykj5sy4z4lhjvwamjegjccdkizxhcc4r6w4gxwa"
+              },
+              "py_type": "blob"
+            },
+            "aspect_ratio": {
+              "height": 255,
+              "width": 540,
+              "py_type": "app.bsky.embed.defs#aspectRatio"
+            },
+            "py_type": "app.bsky.embed.images#image"
+          }
+        ],
+        "py_type": "app.bsky.embed.images"
+      },
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": null,
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:je2btexejn5mrwze57y4aupo/app.bsky.feed.post/3m6xgdumxf22m",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": {
+      "images": [
+        {
+          "alt": "no results for \"zosan mamdani\"",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:je2btexejn5mrwze57y4aupo/bafkreihrli5uhu7ttucykj5sy4z4lhjvwamjegjccdkizxhcc4r6w4gxwa@jpeg",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:je2btexejn5mrwze57y4aupo/bafkreihrli5uhu7ttucykj5sy4z4lhjvwamjegjccdkizxhcc4r6w4gxwa@jpeg",
+          "aspect_ratio": {
+            "height": 255,
+            "width": 540,
+            "py_type": "app.bsky.embed.defs#aspectRatio"
+          },
+          "py_type": "app.bsky.embed.images#viewImage"
+        }
+      ],
+      "py_type": "app.bsky.embed.images#view"
+    },
+    "labels": [],
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 0,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:zuuhnsbfrt6sjtimuzx7olop",
+      "handle": "ishmael.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": null,
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:zuuhnsbfrt6sjtimuzx7olop/bafkreibisfkv36blbf463qd42swgqq46o3q2c55fhtuvkcd6krznvkbrm4@jpeg",
+      "created_at": "2023-06-15T16:40:26.043Z",
+      "debug": null,
+      "display_name": "ishmael",
+      "labels": [],
+      "pronouns": null,
+      "status": null,
+      "verification": {
+        "trusted_verifier_status": "none",
+        "verifications": [
+          {
+            "created_at": "2025-10-08T15:05:56.027Z",
+            "is_valid": true,
+            "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+            "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3m2ow4s4xaj2y",
+            "py_type": "app.bsky.actor.defs#verificationView"
+          }
+        ],
+        "verified_status": "valid",
+        "py_type": "app.bsky.actor.defs#verificationState"
+      },
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreianwdgo35rrf47pcoc77fdqj3caa3oed2ra2xgdsjgqwefjiqemw4",
+    "indexed_at": "2025-12-01T22:59:31.934Z",
+    "record": {
+      "created_at": "2025-12-01T22:59:28.050Z",
+      "text": "Zohran Mamdani and Bernie Sanders joined the @sbworkersunited.org picket line in Brooklyn today. Mamdani said he would keep joining picket lines even after he is sworn in as mayor.",
+      "embed": {
+        "images": [
+          {
+            "alt": "",
+            "image": {
+              "mime_type": "image/jpeg",
+              "size": 993904,
+              "ref": {
+                "link": "bafkreie7gsmwkgqdoqapb2scugf3icidr32vkuhikorqhvjdbhwznrwzam"
+              },
+              "py_type": "blob"
+            },
+            "aspect_ratio": {
+              "height": 1672,
+              "width": 2000,
+              "py_type": "app.bsky.embed.defs#aspectRatio"
+            },
+            "py_type": "app.bsky.embed.images#image"
+          }
+        ],
+        "py_type": "app.bsky.embed.images"
+      },
+      "entities": null,
+      "facets": [
+        {
+          "features": [
+            {
+              "did": "did:plc:vettqnyc57gmue2pyxegyt6y",
+              "py_type": "app.bsky.richtext.facet#mention"
+            }
+          ],
+          "index": {
+            "byte_end": 65,
+            "byte_start": 45,
+            "py_type": "app.bsky.richtext.facet#byteSlice"
+          },
+          "py_type": "app.bsky.richtext.facet"
+        }
+      ],
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": null,
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:zuuhnsbfrt6sjtimuzx7olop/app.bsky.feed.post/3m6xjrakvxc23",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": {
+      "images": [
+        {
+          "alt": "",
+          "fullsize": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zuuhnsbfrt6sjtimuzx7olop/bafkreie7gsmwkgqdoqapb2scugf3icidr32vkuhikorqhvjdbhwznrwzam@jpeg",
+          "thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zuuhnsbfrt6sjtimuzx7olop/bafkreie7gsmwkgqdoqapb2scugf3icidr32vkuhikorqhvjdbhwznrwzam@jpeg",
+          "aspect_ratio": {
+            "height": 1672,
+            "width": 2000,
+            "py_type": "app.bsky.embed.defs#aspectRatio"
+          },
+          "py_type": "app.bsky.embed.images#viewImage"
+        }
+      ],
+      "py_type": "app.bsky.embed.images#view"
+    },
+    "labels": [],
+    "like_count": 11,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 3,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  },
+  {
+    "author": {
+      "did": "did:plc:ee346gbn6a4v3tlyu5ekbwqe",
+      "handle": "burnseternal.bsky.social",
+      "associated": {
+        "activity_subscription": {
+          "allow_subscriptions": "followers",
+          "py_type": "app.bsky.actor.defs#profileAssociatedActivitySubscription"
+        },
+        "chat": null,
+        "feedgens": null,
+        "labeler": null,
+        "lists": null,
+        "starter_packs": null,
+        "py_type": "app.bsky.actor.defs#profileAssociated"
+      },
+      "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ee346gbn6a4v3tlyu5ekbwqe/bafkreif7nq2hmaur3uzyjgsbd4ssqywut7fldm6bwte4thn34dklbrofwi@jpeg",
+      "created_at": "2024-11-24T19:36:53.848Z",
+      "debug": null,
+      "display_name": "p",
+      "labels": [],
+      "pronouns": null,
+      "status": null,
+      "verification": null,
+      "viewer": {
+        "activity_subscription": null,
+        "blocked_by": false,
+        "blocking": null,
+        "blocking_by_list": null,
+        "followed_by": null,
+        "following": null,
+        "known_followers": null,
+        "muted": false,
+        "muted_by_list": null,
+        "py_type": "app.bsky.actor.defs#viewerState"
+      },
+      "py_type": "app.bsky.actor.defs#profileViewBasic"
+    },
+    "cid": "bafyreidaiyqvzuq2wljk6edsivnoko23yje4zcy3k7pry4oyhjixmo2pri",
+    "indexed_at": "2025-12-01T23:59:21.036Z",
+    "record": {
+      "created_at": "2025-12-01T23:59:20.253Z",
+      "text": "What a combo: Mamdani and Bernie!",
+      "embed": null,
+      "entities": null,
+      "facets": null,
+      "labels": null,
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreibnnfmsrtblgjo2set5dxtofuogpzj7coabdfbfb5zgmoxmidlgk4",
+          "uri": "at://did:plc:j5hrotody26iqi24hcusufxu/app.bsky.feed.post/3m6xmexa36c22",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "root": {
+          "cid": "bafyreibnnfmsrtblgjo2set5dxtofuogpzj7coabdfbfb5zgmoxmidlgk4",
+          "uri": "at://did:plc:j5hrotody26iqi24hcusufxu/app.bsky.feed.post/3m6xmexa36c22",
+          "py_type": "com.atproto.repo.strongRef"
+        },
+        "py_type": "app.bsky.feed.post#replyRef"
+      },
+      "tags": null,
+      "py_type": "app.bsky.feed.post"
+    },
+    "uri": "at://did:plc:ee346gbn6a4v3tlyu5ekbwqe/app.bsky.feed.post/3m6xn4cczn22r",
+    "bookmark_count": 0,
+    "debug": null,
+    "embed": null,
+    "labels": [],
+    "like_count": 7,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0,
+    "threadgate": null,
+    "viewer": {
+      "bookmarked": false,
+      "embedding_disabled": false,
+      "like": null,
+      "pinned": null,
+      "reply_disabled": null,
+      "repost": null,
+      "thread_muted": false,
+      "py_type": "app.bsky.feed.defs#viewerState"
+    },
+    "py_type": "app.bsky.feed.defs#postView"
+  }
+]
