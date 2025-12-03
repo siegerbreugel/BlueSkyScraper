@@ -21,6 +21,7 @@ Import and use the scraper in your Python code:
 from BlueSkyScraper import BlueSkyScraper
 
 scraper = BlueSkyScraper()
+scaper.login(user, password) # e.g. handle.bsky.social, secretpassword
 posts = scraper.search_posts(
     query="your search term",
     start_date=start_datetime,
