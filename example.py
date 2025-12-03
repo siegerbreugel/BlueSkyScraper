@@ -17,8 +17,6 @@ scraper = BlueSkyScraper()
 scraper.login(BLUESKY_USER, BLUESKY_PASSWORD)
 
 # Get the posts
-# start_date = datetime.datetime(2025, 10, 16, tzinfo=pytz.timezone('America/New_York'))
-# end_date = datetime.datetime(2025, 11, 4, tzinfo=pytz.timezone('America/New_York'))
 start_date = datetime(2025, 12, 1, tzinfo=pytz.timezone('America/New_York'))
 end_date = datetime(2025, 12, 2, tzinfo=pytz.timezone('America/New_York'))
 
