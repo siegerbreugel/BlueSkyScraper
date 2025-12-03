@@ -1,0 +1,7 @@
+atproto
+python-dotenv
+
+numpy
+pandas
+matplotlib
+pytz
