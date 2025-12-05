@@ -20,7 +20,7 @@ scraper.login(BLUESKY_USER, BLUESKY_PASSWORD)
 start_date = datetime(2025, 12, 1, tzinfo=pytz.timezone('America/New_York'))
 end_date = datetime(2025, 12, 2, tzinfo=pytz.timezone('America/New_York'))
 
-posts = scraper.search_posts('Mamdani', start_date=start_date, end_date=end_date, limit=1, per_hour=True)
+posts = scraper.search_posts('Mamdani', start_date=start_date, end_date=end_date, limit=20, per_hour=True)
 
 # To convert to dataframe:
 # import pandas as pd

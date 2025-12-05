@@ -41,6 +41,33 @@ Unless there's a smart workaround, this is our limitation.
 
 When ``per_hour`` is set to ``False`` (default), the scraper gets a ``limit`` amount of posts within the given timeframe.
 
+## Usage in Google Collab
+The following example shows how to use this tool within a Google Collab notebook:
+```bash
+!git clone https://github.com/siegerbreugel/BlueSkyScraper.git
+%cd BlueSkyScraper
+!pip install -r requirements.txt
+
+from BlueSkyScraper import BlueSkyScraper
+from datetime import datetime
+import pytz
+
+username = 'username.bsky.social'
+password = 'password'
+
+scraper = BlueSkyScraper()
+scraper.login(username, password)
+
+start_date = datetime(2025, 12, 1, tzinfo=pytz.timezone('America/New_York'))
+end_date = datetime(2025, 12, 2, tzinfo=pytz.timezone('America/New_York'))
+
+posts = scraper.search_posts('Mamdani', start_date=start_date, end_date=end_date, limit=99, per_hour=False)
+import pandas as pd
+df = pd.json_normalize(posts)
+
+df
+```
+
 ## Notes
 
 This tool was developed quickly for research purposes and may lack extensive error handling.
